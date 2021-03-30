@@ -1,0 +1,38 @@
+<annotation>
+	<folder>rawimg</folder>
+	<filename>p (230).png</filename>
+	<path>C:\Users\Administrator\Desktop\rawimg\p (230).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>740</width>
+		<height>555</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>236</ymin>
+			<xmax>403</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>135</ymin>
+			<xmax>430</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>rawimg</folder>
+	<filename>f (218).png</filename>
+	<path>C:\Users\zl\Desktop\class\pics\f (218).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6720</width>
+		<height>4480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2768</xmin>
+			<ymin>3144</ymin>
+			<xmax>3784</xmax>
+			<ymax>4077</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3376</xmin>
+			<ymin>144</ymin>
+			<xmax>6568</xmax>
+			<ymax>2102</ymax>
+		</bndbox>
+	</object>
+</annotation>

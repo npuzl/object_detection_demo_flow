@@ -1,0 +1,38 @@
+<annotation>
+	<folder>rawimg</folder>
+	<filename>p (777).png</filename>
+	<path>C:\Users\Administrator\Desktop\rawimg\p (777).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>536</xmin>
+			<ymin>399</ymin>
+			<xmax>677</xmax>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1068</xmin>
+			<ymin>29</ymin>
+			<xmax>1193</xmax>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cutted</folder>
+	<filename>1316.png</filename>
+	<path>C:\Users\Shinelon\Desktop\cutted\1316.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>20</ymin>
+			<xmax>212</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

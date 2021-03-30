@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rawimg</folder>
+	<filename>f (283).png</filename>
+	<path>C:\Users\zl\Desktop\class\pics\f (283).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>681</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>640</ymin>
+			<xmax>422</xmax>
+			<ymax>982</ymax>
+		</bndbox>
+	</object>
+</annotation>

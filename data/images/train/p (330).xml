@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rawimg</folder>
+	<filename>p (330).png</filename>
+	<path>C:\Users\Administrator\Desktop\rawimg\p (330).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>458</width>
+		<height>276</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>10</ymin>
+			<xmax>228</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rawimg</folder>
+	<filename>f (260).png</filename>
+	<path>C:\Users\zl\Desktop\class\pics\f (260).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>7</ymin>
+			<xmax>147</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>
