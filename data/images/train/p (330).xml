@@ -1,13 +1,13 @@
 <annotation>
-	<folder>rawimg</folder>
+	<folder>train</folder>
 	<filename>p (330).png</filename>
-	<path>C:\Users\Administrator\Desktop\rawimg\p (330).png</path>
+	<path>C:\object_detection_demo_flow\data\images\train\p (330).png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>458</width>
-		<height>276</height>
+		<width>0</width>
+		<height>0</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>6</xmin>
-			<ymin>10</ymin>
-			<xmax>228</xmax>
-			<ymax>228</ymax>
+			<xmin>49</xmin>
+			<ymin>23</ymin>
+			<xmax>297</xmax>
+			<ymax>210</ymax>
 		</bndbox>
 	</object>
 </annotation>
