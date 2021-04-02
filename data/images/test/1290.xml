@@ -1,7 +1,7 @@
 <annotation>
-	<folder>cutted</folder>
+	<folder>test</folder>
 	<filename>1290.png</filename>
-	<path>C:\Users\Shinelon\Desktop\cutted\1290.png</path>
+	<path>C:\object_detection_demo_flow\data\images\test\1290.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>77</ymin>
 			<xmax>127</xmax>
 			<ymax>220</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>33</ymin>
+			<xmax>319</xmax>
+			<ymax>154</ymax>
 		</bndbox>
 	</object>
 </annotation>

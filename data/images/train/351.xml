@@ -1,7 +1,7 @@
 <annotation>
-	<folder>cutted</folder>
+	<folder>train</folder>
 	<filename>351.png</filename>
-	<path>C:\Users\Shinelon\Desktop\cutted\351.png</path>
+	<path>C:\object_detection_demo_flow\data\images\train\351.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>

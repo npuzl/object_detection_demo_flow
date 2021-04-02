@@ -1,7 +1,7 @@
 <annotation>
-	<folder>cutted</folder>
+	<folder>train</folder>
 	<filename>482.png</filename>
-	<path>C:\Users\Shinelon\Desktop\cutted\482.png</path>
+	<path>C:\object_detection_demo_flow\data\images\train\482.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>154</xmin>
+			<xmin>172</xmin>
 			<ymin>3</ymin>
-			<xmax>277</xmax>
-			<ymax>127</ymax>
+			<xmax>254</xmax>
+			<ymax>89</ymax>
 		</bndbox>
 	</object>
 </annotation>

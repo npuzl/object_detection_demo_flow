@@ -1,7 +1,7 @@
 <annotation>
-	<folder>cutted</folder>
+	<folder>test</folder>
 	<filename>262.png</filename>
-	<path>C:\Users\Shinelon\Desktop\cutted\262.png</path>
+	<path>C:\object_detection_demo_flow\data\images\test\262.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>1</xmin>
 			<ymin>3</ymin>
-			<xmax>281</xmax>
-			<ymax>203</ymax>
+			<xmax>260</xmax>
+			<ymax>177</ymax>
 		</bndbox>
 	</object>
 </annotation>
